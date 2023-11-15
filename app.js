@@ -1,0 +1,19 @@
+import './js/default.js';
+import './scss/styles.scss';
+
+import './svgs/logo.svg';
+import './svgs/klatcen-banner.svg';
+import './svgs/arrow-footer.svg';
+import './svgs/arrow-quiz.svg';
+import './svgs/hero-pattern.svg';
+import './svgs/hero-about-pattern.svg';
+import './svgs/hero-arrow.svg';
+import './svgs/hero-about-arrow.svg';
+import './svgs/cta-banner-arrow.svg';
+import './images/hero-image.webp';
+import './images/quiz-image.webp';
+import './images/quiz-image-2x.webp';
+import './images/advantages-image.webp';
+import './images/advantages-image-xs.webp';
+import './images/advantages-image-md.webp';
+import './images/advantages-image-sm.webp';
